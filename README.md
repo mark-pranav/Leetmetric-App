@@ -12,7 +12,7 @@ The Leetmetric app is built using HTML, CSS, and JavaScript. This app fetches an
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/Leetmetric_JS_Web.git
+    git clone https://github.com/mark-pranav/Leetmetric_JS_Web.git
     cd Leetmetric_JS_Web
     ```
 
@@ -41,3 +41,5 @@ The Leetmetric app is built using HTML, CSS, and JavaScript. This app fetches an
 ## License
 
 This project is licensed under the MIT License.
+
+![look](image.png)
